@@ -25,7 +25,7 @@
 
 # 📖 [RoofTop-Cafe] <a name="about-project"></a>
 
-**[Europe-Global-Summit]** is a project assigned by microverse that we have to do using our own thinking and collection of data and images.
+**[RoofTop-Cafe]** is a project assigned by microverse that we have to do using our own thinking and collection of data and images.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -63,8 +63,8 @@ To get a local copy up and running, follow these steps.
 
 Clone this repository to your desired folder:
 
-<!--
-> Open GitHub and go to my GitHub repository name: Digital_World_Summit .to clone.
+
+> Open GitHub and go to my GitHub repository name: First-Capstone-Project-Rooftop-Cafe to clone.
 > Click “Code” and copy the given URL.
 > click code and copy the URL.
 
@@ -87,7 +87,7 @@ To run the project, execute the following command:
 > open your directory Digital_World_Summit
 > to run the file :
 > \_use vs-code or any IDE to view line code .
---->
+-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -99,7 +99,7 @@ To run the project, execute the following command:
 
 👤 **Author1**
 
-- GitHub: [@ngeelani](https://github.com/ngeelani48)
+- GitHub: [@ngeelani48](https://github.com/ngeelani48)
 - LinkedIn: [Muhammad Nafees](https://www.linkedin.com/in/m-n-geelani-3446097275/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
