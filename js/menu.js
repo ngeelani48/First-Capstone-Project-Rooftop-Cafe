@@ -15,5 +15,5 @@ menuitems.forEach((item) => {
     close();
   });
 });
-openMenu.addEventListener('click',show);
-closeMenu.addEventListener('click',close);
+openMenu.addEventListener('click', show);
+closeMenu.addEventListener('click', close);
