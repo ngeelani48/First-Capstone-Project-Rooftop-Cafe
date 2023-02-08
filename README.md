@@ -25,15 +25,13 @@
 
 # 📖 [RoofTop-Cafe] <a name="about-project"></a>
 
-**[Europe-Global-Summit]** is a project that was given by Microverse. We had to redesign the similar project to this one, but we had to include personal content with or own data and photos.
+**[Europe-Global-Summit]** is a project assigned by microverse that we have to do using our own thinking and collection of data and images.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 - **[html]**
 - **[css]**
 - **[javascript]**
-- **[flaticon]**
-- **[ionicons]**
 
 <!-- Features -->
 
@@ -48,7 +46,8 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://enis-memic.github.io/Europe-Global-Summit/)
+- [Live Demo Link](https://ngeelani48.github.io/First-Capstone-Project-Rooftop-Cafe/)
+- [Project video Link](https://www.loom.com/share/9f16e812d55c4a2db1cf52fd14bfb8b4)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -100,8 +99,8 @@ To run the project, execute the following command:
 
 👤 **Author1**
 
-- GitHub: [@enis-memic](https://github.com/enis-memic)
-- LinkedIn: [Enis Memic](https://linkedin.com/in/enis-memic)
+- GitHub: [@ngeelani](https://github.com/ngeelani48)
+- LinkedIn: [Muhammad Nafees](https://www.linkedin.com/in/m-n-geelani-3446097275/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

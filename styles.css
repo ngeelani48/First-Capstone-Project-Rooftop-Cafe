@@ -298,10 +298,11 @@ margin-top: 8%;
     size: 100px;
     margin: 10%;
     width: 70%;
-    
+    height: 30%;    
 }
 .logo-design img {
    margin: 10%;
+   width: 50%;
 }
 #partners {
   color: #d3d3d3;
@@ -363,12 +364,11 @@ footer {
     align-items: center;
     align-content: space-between;
     justify-content: space-between;
+    height: 80px;
  } 
  .nav-logo img {
-    width: 100px;
-    padding: 5%;
-    margin: 5%;
-    background-color:#272A31;
+    width: 150px;
+    /* background-color:#272A31; */
     margin-left: 15rem;
  }
  
@@ -436,6 +436,7 @@ footer {
     display: flex;
     align-self: center;
     justify-content: center;
+    width: 60%;
 }
 #partners{
     display: none;
