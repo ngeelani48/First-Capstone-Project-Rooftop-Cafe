@@ -736,21 +736,18 @@ footer {
     align-self: center;
     padding: 2rem;
   }
+
   .dish h3 {
     text-align: center;
     padding: 5px;
   }
-  .dish p {
-    padding: 1rem;
-    text-align: center;
-    font-size: 10px;
-  }
 
   .dish p {
     color: white;
-    font-size: 15px;
     font-family: "Lato", sans-serif;
     text-align: center;
+    padding: 1rem;
+    font-size: 13px;
   }
 
   .contact-button {
