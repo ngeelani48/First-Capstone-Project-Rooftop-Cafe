@@ -47,7 +47,7 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 - [Live Demo Link](https://ngeelani48.github.io/First-Capstone-Project-Rooftop-Cafe/)
-- [Project video Link](https://www.loom.com/share/92626eea74c04da88ca11be53e4d3e3c)
+- [Project video Link](https://www.loom.com/share/3c4d1b1675bd4c4a8da7131322f53ae1)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
