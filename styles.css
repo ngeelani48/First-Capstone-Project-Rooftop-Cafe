@@ -28,6 +28,11 @@
   height: 10%;
 }
 
+.nav-menu-about i img {
+  width: 10%;
+  height: 10%;
+}
+
 .nav-menu :hover {
   cursor: pointer;
 }
@@ -255,11 +260,22 @@
 }
 
 /* <...about...> */
+.nav-menu-about {
+  background-color: #d3d3d3;
+  padding: 10px;
+  background-image: url("./images/cafe-bg2.jpg");
+  background-size: cover;
+}
+
+.nav-menu-about :hover {
+  cursor: pointer;
+}
+
 #about {
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-image: url("./images/cafeblur.png");
+  background-image: url("./images/cafe-bg2.jpg");
   background-size: cover;
   height: 85vh;
 }
@@ -691,7 +707,8 @@ footer {
     color: #272a31;
   }
 
-  .mobile-menu {
+  .mobile-menu,
+  .nav-menu-about {
     display: none;
   }
 }
