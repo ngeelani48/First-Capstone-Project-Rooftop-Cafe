@@ -20,10 +20,8 @@
 }
 
 .dish img {
-  margin-left: 5%;
   width: 90%;
-  padding-top: 5px;
-  padding-bottom: 5px;
+  padding: 10%;
 }
 
 .nav-menu i img {
@@ -547,8 +545,6 @@ footer {
 
   .nav-logo img {
     width: 150px;
-
-    /* background-color:#272A31; */
     margin-left: 15rem;
   }
 
@@ -732,15 +728,22 @@ footer {
     background-color: #d3d3d38d;
     align-items: center;
     margin: 0;
+    width: 20%;
   }
 
   .dish img {
-    width: 90%;
-    height: 50%;
     margin-left: 0;
     align-self: center;
-    padding-top: 5px;
-    padding-bottom: 5px;
+    padding: 2rem;
+  }
+  .dish h3 {
+    text-align: center;
+    padding: 5px;
+  }
+  .dish p {
+    padding: 1rem;
+    text-align: center;
+    font-size: 10px;
   }
 
   .dish p {
