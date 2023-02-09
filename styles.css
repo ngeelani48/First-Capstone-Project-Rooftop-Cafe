@@ -15,12 +15,15 @@
 
 .logo-design img {
   margin: 10%;
-  width: 50%;
+  width: 70%;
+  padding-left: 10%;
 }
 
 .dish img {
   margin-left: 5%;
   width: 90%;
+  padding-top: 5px;
+padding-bottom: 5px;
 }
 
 .nav-menu i img {
@@ -331,7 +334,7 @@
   align-content: center;
   align-items: center;
   gap: 20px;
-  background-color: #d3d3d3;
+  background-color: #fff;
 }
 
 .logo-title {
@@ -356,12 +359,81 @@
 }
 
 .logo-design {
-  border: 1px solid rgba(255, 255, 255, 0.829);
+  border: 1px solid #d3d3d3;
   margin: 10%;
   width: 70%;
   height: 30%;
 }
+.views {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.views-title {
+    text-align: center;
+    font-size: 1.8rem;
+    font-family: "Lato",sans-serif;
+    color: #272a31;
+    margin-top: 8%;
+    margin-bottom: 1%;
+}
+.views-content {
+    display: flex;
+    flex-direction: column;
+}
+.views-line {
+    border: 1px solid #ec5242;
+    width: 5%;
+    align-self: center;
+    justify-content: center;
+}
+.views-text {
+    font-family: "Lato",sans-serif;
+    color: #272a31;
+    text-align: center;
+    margin: 5%;
+    font-size: 1rem;
+}
+.views-images {
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  position: relative;
+}
+.view {
+    margin: 1rem;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgb(248, 65, 65);
+  width: 100%;
 
+}
+.card {
+    width: 100%;
+    opacity: 0.5;
+  }
+  .time {
+    margin: 0;
+  position: absolute;
+  top: 35%;
+  font-size: 1.5rem;
+  color: #fff;
+  font-weight: 900;
+  font-family: "Lato", sans-serif;
+  }
+  .text-view {
+    margin: 0;
+    position: absolute;
+    top: 55%;
+    font-size: 1.5rem;
+    color: #fff;
+    font-weight: 900;
+    font-family: "Lato",sans-serif;
+  }
 #partners {
   color: #d3d3d3;
   text-align: center;
@@ -370,6 +442,7 @@
   height: 30vh;
   width: 100%;
   background-color: #272a31;
+  margin-top: 5%;
 }
 
 .partner-title {
@@ -406,6 +479,7 @@ footer {
   justify-content: space-around;
   align-content: center;
   padding-top: 10%;
+  font-family: "Lato",sans-serif;
 }
 
 .nav-desktop {
@@ -416,7 +490,8 @@ footer {
   display: none;
 }
 
-#main-footer {
+#main-footer,
+.nav-black {
   display: none;
 }
 
@@ -424,14 +499,36 @@ footer {
   .nav-menu {
     display: none;
   }
+  .nav-black {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 2rem;
+    background-color: #272a31;
+    padding: 0.1rem;
+}
+.tabs {
+    margin-right: 1rem;
+    color: #fff;
+}
+.icon {
+    font-size: 1.5rem;
+    color: #fff;
+}
+.nav-icons {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+    margin-right: 10%;
+}
 
   .nav-desktop {
     display: flex;
-    background-color: #d3d3d3;
+    background-color: #fff;
     align-items: center;
     align-content: space-between;
     justify-content: space-between;
-    height: 80px;
+    height: 60px;
   }
 
   .nav-logo img {
@@ -500,7 +597,7 @@ footer {
   }
 
   #logo {
-    background-color: aliceblue;
+    background-color: #fff;
   }
 
   .logo-orangeline {
@@ -511,7 +608,6 @@ footer {
   .logo-design {
     display: flex;
     width: 30%;
-    background-color: aliceblue;
     align-self: center;
     border: 1.5px solid #d3d3d3;
     margin: 3rem;
@@ -523,7 +619,20 @@ footer {
     justify-content: center;
     width: 60%;
   }
-
+  .views-images {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    position: relative;
+    margin-bottom: 4rem;
+  }
+  .view {
+    width: 100%;
+  }
+  .views-text {
+    white-space: nowrap;
+  }
   #partners {
     display: none;
   }
@@ -612,6 +721,8 @@ footer {
     height: 50%;
     margin-left: 0;
     align-self: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
   }
 
   .dish p {
