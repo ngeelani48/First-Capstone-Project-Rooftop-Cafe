@@ -1,6 +1,7 @@
 @import url(//db.onlinewebfonts.com/c/d14035f6b1afeabafbee4abb2ebf0fc6?family=COCOGOOSE);
 
 * {
+  font-family: "Lato", sans-serif;
   box-sizing: border-box;
   margin: 0;
   padding: 0;
@@ -194,6 +195,7 @@
   width: 50%;
   align-self: center;
   margin: 2rem;
+  white-space: nowrap;
 }
 
 .whole-dish {
@@ -498,7 +500,21 @@ footer {
   display: none;
 }
 
-#main-footer,
+#main-footer {
+  height: 15vh;
+  background-color: #d3d3d3;
+  display: contents;
+}
+
+.footer-content-main {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  align-content: center;
+  padding: 1rem;
+  gap: 2rem;
+}
+
 .nav-black {
   display: none;
 }
