@@ -25,7 +25,7 @@
 
 # 📖 [RoofTop-Cafe] <a name="about-project"></a>
 
-**[RoofTop-Cafe]** is a project assigned by microverse that we have to do using our own thinking and collection of data and images.
+**[RoofTop-Cafe]** is a Cafe website design where users can see details about the cafe and see what dishes are offered. it has consisted of two pages Main and the About page and it is responsive about the screen sizes.
 
 ## 🛠 Built With <a name="built-with"></a>
 
