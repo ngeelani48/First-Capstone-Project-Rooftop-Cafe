@@ -25,7 +25,7 @@
 
 # 📖 [RoofTop-Cafe] <a name="about-project"></a>
 
-**[RoofTop-Cafe]** is a Cafe website design where users can see details about the cafe and see what dishes are offered. it has consisted of two pages Main and the About page and it is responsive about the screen sizes.
+**[RoofTop-Cafe]** is a Cafe website design where users can see the cafe's details and what dishes are offered. It consisted of two pages, the Main and the About page and it is responsive about the screen sizes.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -66,13 +66,13 @@ Clone this repository to your desired folder:
 
 > Open GitHub and go to my GitHub repository name: First-Capstone-Project-Rooftop-Cafe to clone.
 > Click “Code” and copy the given URL.
-> click code and copy the URL.
+> Click the code and copy the URL.
 
-> click code and copy the URL.
+> Click the code and copy the URL.
 
 > Open “Git Bash” and change the current working directory to the location where you want the cloned directory.
 
-> Type git clone in the terminal, paste the URL you copied earlier, and press “enter” to create your local clone.
+> Type git clone in the terminal, paste the URL you copied earlier and press “enter” to create your local clone.
 
 > Syntax:
 
@@ -84,9 +84,9 @@ $ git clone {repository URL}
 To run the project, execute the following command:
 
 <!--
-> open your directory Digital_World_Summit
-> to run the file :
-> \_use vs-code or any IDE to view line code .
+> Open your directory Digital_World_Summit
+> To run the file :
+> \_use vs-code or any IDE to view line code.
 -
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
